@@ -20,7 +20,7 @@ setup(
     author_email="hey@pytube.io",
     packages=["pytube", "pytube.contrib"],
     package_data={"": ["LICENSE"],},
-    url="https://github.com/pytube/pytube",
+    url="https://github.com/danielfabriq/pytube",
     license="The Unlicense (Unlicense)",
     entry_points={
         "console_scripts": [
@@ -51,7 +51,7 @@ setup(
     zip_safe=True,
     python_requires=">=3.7",
     project_urls={
-        "Bug Reports": "https://github.com/pytube/pytube/issues",
+        "Bug Reports": "https://github.com/danielfabriq/pytube/issues",
         "Read the Docs": "https://pytube.io",
     },
     keywords=["youtube", "download", "video", "stream",],
